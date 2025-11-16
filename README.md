@@ -63,9 +63,9 @@ O projeto é colaborativo!
 ## 🧑‍💻 Manutenção e Contato
 
 **Roniery Santos Cardoso**
-🌐 Site: [rscsistemas.com.br](https://rscsistemas.com.br)
-📧 E-mail: [roniery@rscsistemas.com.br](mailto:roniery@rscsistemas.com.br)
-📱 WhatsApp: [+55 92 4141-2737](https://wa.me/559241412737)
+🌐 Site: [rscsistemas.com.br](https://rscsistemas.com.br)  
+📧 E-mail: [roniery@rscsistemas.com.br](mailto:roniery@rscsistemas.com.br)  
+📱 WhatsApp: [+55 92 4141-2737](https://wa.me/559241412737)  
 
 ---
 
