@@ -1,8 +1,8 @@
-# Projeto Open Source – RscTEF
+# Projeto Open Source – RscTEF_Demonstracao
 
 Este é um projeto aberto mantido pela **RSC Sistemas e Soluções Tecnológicas**, disponibilizado à comunidade para fins educacionais, colaborativos e de aprimoramento da integração TEF em Delphi.
 
-### Projeto: RscTEF
+### Projeto: RscTEF_Demonstracao
 
 ---
 
